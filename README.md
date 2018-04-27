@@ -2,7 +2,6 @@
 
 Hi Humans!
 
-Caterpie here, I like Python and C++, artificial intelligence and machine learning, game theory and formal method.
-I've had my personal site www.zcanlog.com!
+Caterpie here, I hate Python, C++, Java.
+I do not own my website www.zcanlog.com!
 
-Hope we can work together. ^ ^
